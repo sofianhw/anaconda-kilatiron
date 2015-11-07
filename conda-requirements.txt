@@ -1,5 +1,5 @@
-scipy
+mypython
 numpy
-bitarray
-reportlab
-pandas
+matplotlib
+scipy
+ipython-notebook
