@@ -1,1 +1,1 @@
-web: ipython notebook --port 8888
+web: ipython notebook --no-browser --ip=* --port=$PORT
