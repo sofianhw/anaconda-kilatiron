@@ -1,1 +1,1 @@
-web: ipython notebook --port 80
+web: ipython notebook --port 8888
